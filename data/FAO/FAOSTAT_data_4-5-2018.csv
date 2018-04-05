@@ -1,0 +1,4 @@
+Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description
+"QC","Crops","226","Uganda","5312","Area harvested","176","Beans, dry","2016","2016","ha","670737","Im","FAO data based on imputation methodology"
+"QC","Crops","226","Uganda","5312","Area harvested","125","Cassava","2016","2016","ha","945595","Im","FAO data based on imputation methodology"
+"QC","Crops","226","Uganda","5312","Area harvested","56","Maize","2016","2016","ha","1148993","Im","FAO data based on imputation methodology"
